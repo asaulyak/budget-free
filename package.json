@@ -1,0 +1,30 @@
+{
+  "name": "budget-free",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asaulyak/budget-free.git"
+  },
+  "author": "jenya.asaulyak@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asaulyak/budget-free/issues"
+  },
+  "homepage": "https://github.com/asaulyak/budget-free#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "eslint": "^3.10.0",
+    "webpack": "^1.13.3"
+  }
+}
